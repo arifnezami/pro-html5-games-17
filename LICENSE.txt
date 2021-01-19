@@ -13,6 +13,7 @@ It is not allowed to reuse,  modify, or redistribute the Software for
 commercial use in any way, or for a user’s educational materials such as books 
 or blog articles without prior permission from the copyright holder. 
 
+
 The above copyright notice and this permission notice need to be included 
 in all copies or substantial portions of the software.
 
